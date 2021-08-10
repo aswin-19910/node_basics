@@ -1,0 +1,14 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "New node file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aswin Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "otp-generator": "^2.0.1"
+  }
+}
